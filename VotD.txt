@@ -1,2 +1,5 @@
+title:Vow of the Disciple Wishlist
+description:This is a VotD raid weapons wishlist.
+
 //Insidious
 dimwishlist:item=3428521585&perks=839105230,3142289711,2848615171,3425386926
